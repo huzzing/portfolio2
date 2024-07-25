@@ -1188,3 +1188,16 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+.phurbatamang{
+  font-family: arial;
+  font-size: 20px;
+}
+.rowgu{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+/*  text-align: left;*/
+}
+.limbu{
+  text-align: left;
+}
